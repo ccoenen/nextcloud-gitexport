@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<info>
+	<id>gitexport</id>
+	<name>Git-Export</name>
+	<version>0.0.0</version>
+	<licence>AGPL</licence>
+	<author>Claudius Coenen</author>
+	<dependencies>
+		<owncloud min-version="9.1" max-version="9.2" />
+	</dependencies>
+	<description>Auto-Export all your contacts, calendars and todos into a git repository</description>
+	<documentation>
+		<user><!-- TODO --></user>
+	</documentation>
+	<category><!-- TODO --></category>
+	<website>https://github.com/ccoenen/nextcloud-gitexport/issues</website>
+	<bugs>https://github.com/ccoenen/nextcloud-gitexport/issues</bugs>
+	<repository type="git">https://github.com/ccoenen/nextcloud-gitexport.git</repository>
+	<ocsid><!-- none so far --></ocsid>
+</info>
